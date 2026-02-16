@@ -39,6 +39,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
+<img width="1031" height="78" alt="545744249-1d639d05-9625-43ba-bdbc-a2d9ceaeb1cb" src="https://github.com/user-attachments/assets/67795469-64a7-4e25-ab5a-05cbc2056d8c" />
 
 
 
@@ -77,6 +78,7 @@ Test the C Program for the desired output.
 
 
 
+<img width="1031" height="237" alt="545744408-31512471-4cdd-49e8-a6c2-1e4ca27cc10b" src="https://github.com/user-attachments/assets/6df44e02-2c84-4abb-bced-371f2078f9cd" />
 
 
 
